@@ -8,9 +8,12 @@ const char* password = "..........."; // Replace with your WiFi password
 
 // Telegram Bot Configuration
 const char* botToken = "XXXXXXXXXXXX:......................."; // Replace with your bot token
+const char* chatID = "XXXXXXXXXX";                             // Replace with your chat ID
 
+//************************** For multiple devices  ***********************************
 // List of Chat IDs
-const char* chatIDs[] = {"XXXXXXXXXX" , "XXXXXXXXXXX"}; // Replace with actual chat IDs
+// const char* chatIDs[] = {"XXXXXXXXXX" , "XXXXXXXXXXX"}; // Replace with actual chat IDs
+
 const int numChatIDs = sizeof(chatIDs) / sizeof(chatIDs[0]);
 
 // GPS Configuration
