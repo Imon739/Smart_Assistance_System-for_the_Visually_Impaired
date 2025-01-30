@@ -3,14 +3,14 @@
 #include <TinyGPS++.h>
 
 // WiFi Configuration
-const char* ssid = "Imon";       // Replace with your WiFi SSID
-const char* password = "imon84.."; // Replace with your WiFi password
+const char* ssid = "XXXXXXX";       // Replace with your WiFi SSID
+const char* password = "..........."; // Replace with your WiFi password
 
 // Telegram Bot Configuration
-const char* botToken = "7700117923:AAF9c0jtH6FB-PLW-AyLtQZ8PWiF9swqby8"; // Replace with your bot token
+const char* botToken = "XXXXXXXXXXXX:......................."; // Replace with your bot token
 
 // List of Chat IDs
-const char* chatIDs[] = {"6037168359" , "5119232983"}; // Replace with actual chat IDs
+const char* chatIDs[] = {"XXXXXXXXXX" , "XXXXXXXXXXX"}; // Replace with actual chat IDs
 const int numChatIDs = sizeof(chatIDs) / sizeof(chatIDs[0]);
 
 // GPS Configuration
