@@ -4,7 +4,7 @@
 #include "DFRobotDFPlayerMini.h"
 
 // Wi-Fi credentials
-const char* ssid = "XXXXXXXXX"; // Replace with your Wi-Fi SSID
+const char* ssid = "XXXXXXXXXX"; // Replace with your Wi-Fi SSID
 const char* password = ".........."; // Replace with your Wi-Fi password
 
 // Flask server URL
