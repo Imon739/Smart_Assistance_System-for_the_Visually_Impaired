@@ -1,8 +1,4 @@
-# 🎯 **Smart Assistance System for the Visually Impaired**
-
-🔹 **An IoT-Based Innovation for Independence & Safety!** 🔹  
-
-📌 **Easily Accessible on GitHub!** 🛠️ [Your Repository Link Here]  
+# 🎯 **Smart Assistance System for the Visually Impaired** 
 
 ## Overview
 
