@@ -1,4 +1,6 @@
-# 🎯 **Smart Assistance System for the Visually Impaired** 
+# 🎯 **Smart Assistance System for the Visually Impaired**
+
+![Smart Assistance System](smart_assistance.jpg)
 
 ## Overview
 
