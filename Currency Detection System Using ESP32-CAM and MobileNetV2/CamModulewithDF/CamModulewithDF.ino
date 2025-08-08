@@ -2,7 +2,7 @@
 #include <WiFi.h>
 #include <HTTPClient.h>
 #include "DFRobotDFPlayerMini.h"
-
+//Wifi connection
 // Wi-Fi credentials
 const char* ssid = "XXXXXXXXXX"; // Replace with your Wi-Fi SSID
 const char* password = ".........."; // Replace with your Wi-Fi password
